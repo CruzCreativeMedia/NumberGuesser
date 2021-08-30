@@ -2,7 +2,7 @@ let humanScore = 0;
 let computerScore = 0;
 let currentRoundNumber = 1;
 
-// Write your code below:
+// Write your code below for the game:
 
 //Generate the New Secret Target Number
 const generateTarget = () => {
